@@ -11,49 +11,54 @@ It showcases **data cleaning, modeling, DAX calculations, and visualization** to
 - Data transformation & cleaning with Power Query
 - DAX measures for cricket KPIs:
 
-KPIs for Batting
-- Strike Rate
--Matches Played
--Innings Played
--Balls Faced
--Highest Score
--Not Outs
--Batting Average
--Centuries
--Half Centuries
--Total Runs Scored
--Number of 4s (Boundaries)
--Number of 6s
--Ducks (zero runs in an innings)
+## 📊 Key Performance Indicators (KPIs)
 
-KPIs for Bowling
-5 Wickets Taken
--Matches Played
--Innings Played
--Wickets Taken
--Strike Rate
--Overs Bowled
--Runs Given
--Number of Maidens (Mdns)
--Economy
--Best Bowling Innings
--Bowling Average
--4 Wickets Taken
+### 🏏 Batting KPIs
+Strike Rate  
+Matches Played  
+Innings Played  
+Balls Faced  
+Highest Score  
+Not Outs  
+Batting Average  
+Centuries (100s)  
+Half Centuries (50s)  
+Total Runs Scored  
+Number of 4s (Boundaries)  
+Number of 6s  
+Ducks (zero runs in an innings)  
 
-KPIs for fielding
--Matches Played
--Innings Played
--Total Number of Dismissals
--Dismissal per Innings (D/I)
--Number of Catches as Wicketkeeper (Wk)
--Number of Catches as Fielder
--Number of Catches (Total)
--Number of Stumpings
--Number of Match Days
+### 🎯 Bowling KPIs
+5 Wickets Taken  
+Matches Played  
+Innings Played  
+Wickets Taken  
+Bowling Strike Rate  
+Overs Bowled  
+Runs Given  
+Number of Maidens (Mdns)  
+Economy Rate  
+Best Bowling Innings  
+Bowling Average  
+4 Wickets Taken  
 
--Batting KPIs measure scoring ability & consistency.
--Bowling KPIs measure wicket-taking ability & efficiency.
--Fielding KPIs measure contribution in dismissals & catching.
+### 🧤 Fielding KPIs
+Matches Played  
+Innings Played  
+Total Number of Dismissals  
+Dismissal per Innings (D/I)  
+Number of Catches as Wicketkeeper (Wk)  
+Number of Catches as Fielder  
+Total Number of Catches  
+Number of Stumpings  
+Number of Match Days  
+
+
+## 📊 Key Performance Indicators (KPIs)
+
+- **Batting KPIs** measure scoring ability & consistency.  
+- **Bowling KPIs** measure wicket-taking ability & efficiency.  
+- **Fielding KPIs** measure contribution in dismissals & catching.  
 
 ---
 
