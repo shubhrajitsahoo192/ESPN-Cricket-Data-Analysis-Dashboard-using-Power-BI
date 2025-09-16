@@ -10,16 +10,50 @@ It showcases **data cleaning, modeling, DAX calculations, and visualization** to
 - Web data extraction from ESPN Cricinfo
 - Data transformation & cleaning with Power Query
 - DAX measures for cricket KPIs:
-  - Batting/Bowling Average
-  - Strike Rate
-  - Total Runs / Wickets
-  - Economy Rate
-  - Match Win Ratio
-- Interactive dashboard with:
-  - Top player rankings
-  - Team performance comparison
-  - Yearly trends
-  - Match result distribution
+
+KPIs for Batting
+- Strike Rate
+-Matches Played
+-Innings Played
+-Balls Faced
+-Highest Score
+-Not Outs
+-Batting Average
+-Centuries
+-Half Centuries
+-Total Runs Scored
+-Number of 4s (Boundaries)
+-Number of 6s
+-Ducks (zero runs in an innings)
+
+KPIs for Bowling
+5 Wickets Taken
+-Matches Played
+-Innings Played
+-Wickets Taken
+-Strike Rate
+-Overs Bowled
+-Runs Given
+-Number of Maidens (Mdns)
+-Economy
+-Best Bowling Innings
+-Bowling Average
+-4 Wickets Taken
+
+KPIs for fielding
+-Matches Played
+-Innings Played
+-Total Number of Dismissals
+-Dismissal per Innings (D/I)
+-Number of Catches as Wicketkeeper (Wk)
+-Number of Catches as Fielder
+-Number of Catches (Total)
+-Number of Stumpings
+-Number of Match Days
+
+-Batting KPIs measure scoring ability & consistency.
+-Bowling KPIs measure wicket-taking ability & efficiency.
+-Fielding KPIs measure contribution in dismissals & catching.
 
 ---
 
@@ -32,5 +66,4 @@ It showcases **data cleaning, modeling, DAX calculations, and visualization** to
 
 ## 📊 Key Insights
 - Identified top-performing players by runs, strike rate,catches and wickets.  
-- Compared player performances across different series.  
 ---
